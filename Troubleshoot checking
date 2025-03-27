@@ -1,0 +1,14 @@
+Go daddy
+    in go daddy check the dns and check the azure zone record sets 
+In azure DNS
+     check the records sets
+In applicationway
+    listeners,backend pools,rules
+    backend healthly or not
+In azure
+the vm is running or stop
+  inbound rule(networksecurity rule:port number)
+In vm level
+   in vm the service is running or not 
+   in bound rule enabled or not 
+    
